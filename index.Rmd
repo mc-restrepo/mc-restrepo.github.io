@@ -1,0 +1,95 @@
+---
+title: "Maria Camila Restrepo-Ceron"
+image: "headshotMCR1.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/maria-camila-restrepo-cer%C3%B3n-5ba303237/"
+  - label: CV
+    url: "https://1drv.ms/b/s!AtgymTpwhFVqgpoo6LSZHfv_VU6jcA?e=fq5o6R"
+  - label: GitHub
+    url: "https://github.com/mc-restrepo"
+  - label: Email
+    url: "mailto:mc.restrepo4@gmail.com"
+  - label: ORCiD
+    url: "mailto:mc.restrepo4@gmail.com"
+    
+output:
+  postcards::trestles
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(here)
+``` 
+## About me
+
+I’m passionate about advancing health equity in population oral health through epidemiological methods. I'm currently a Master’s student in Epidemiology at Johns Hopkins Bloomberg School of Public Health, and I hold a Bachelor’s degree in Dentistry (BDS) from CES University in Medellín, Colombia. 
+
+My work integrates research and clinical practice, focusing on the intersection of social and oral health epidemiology, including conditions like cleft lip and palate. While pursuing my degree, I also work as a research assistant, coordinating community-based HIV research projects in Latino populations. 
+
+I also serve as president of the Latino Public Health Network student group and as Master's Co-Representative of the Epidemiology Student Organization (ESO) at JHSPH. My research collaborations include work with CES-LPH in Colombia and the Cariology Research Group at UT Health, San Antonio.
+
+## Education
+
+**Johns Hopkins University** | Baltimore, MD
+
+Master of Science (ScM) in Epidemiology | August 2023 - May 2025
+
+Relevant coursework: Epidemiologic Methods, Biostatistics, Systematic Reviews and Meta-Analysis, 
+Social Epidemiology and Health Equity, Global Health Economics and Economic Evaluation. 
+
+**CES University** | Medellin, Colombia
+
+Bachelor’s degree in Dentistry (BDS) | Jan 2017 - Man 2022
+
+## Research Experience
+
+**Johns Hopkins University, Baltimore, MD** | Teaching Assistant | July 2024 - Present
+
+**Johns Hopkins University, Baltimore, MD** | Research Assistant and Coordinator | April 2024 - Present  
+
+**University of Texas Health (UTHSCSA), San Antonio, TX** | Research Internship | April 2024 - Present
+
+## Clinical Experience
+
+**Dental Clinic Dontologica, Medellin, Colombia** | General dentist in a rural dental clinic | April 2022 – July 2023  
+
+**Dental Clinic Enlace Dental, Medellin, Colombia** | General dentist in private practice | Jan. 2022 – July 2023  
+
+**State Social Enterprise (ESE) San Rafael Hospital, Girardota, Colombia** | Internship in a rural state hospital | Sept. - Oct. 2021  
+
+## Publications
+
+1. Amaechi BT et al., Morphological and Elemental Evaluation of Investigative Mouthwashes to Repair 
+Acid-Eroded Tooth Surface. Clin Cosmet Investig Dent. 2023;15:1-11. 
+2. Amaechi BT et al., Investigation of the effects of Bipolar Radiofrequency Energy on the Structural 
+Morphology of Dental Plaque. Eur J Dent. 2023 May 12.  
+3. Amaechi, Bennett T et al. “Caries preventing efficacy of new Isomalt-containing mouthrinse 
+formulations: a microbial study.” BDJ open vol. 10,1 51. 18 Jun. 2024.
+
+## Skills
+
+- Leadership: President of the Latino Public Health Network, JHSPH (2024) and Co-Masters Representative 
+of the Epidemiology Student Organization, JHSPH (2024) 
+- Language skills: Spanish (native language), English (professional/second language), German (fluent) 
+- Technology skills: R/R Studio, Microsoft 365, Qualtrics, Github, Canva   
+- Membership: ECCO, Johns Hopkins University’s auditioned chamber choir 
+
+## Awards and Scholarships
+
+**Charlotte Ferencz Fellowship in the Department of Epidemiology** | Johns Hopkins University, Baltimore, MD | March 2024
+
+**International Peace Scholarship** | P.E.O. Sisterhood, USA | August 2023
+
+**Best-in-class award for academic excellence (cohort’s highest GPA)** | CES University, Colombia | Jan 2022  
+
+**Acknowledgement for excellent score at national exams in Dentistry** | Ministry of National Education, Colombia | Dec 2021  
+
+**Best cohort’s score at state exam “Saber Pro”** | CES University, Colombia | Dec 2021
+
+**First place at the HATTON contest** | International Association of Dental Research (IADR) | 2019
+
+**Highest promotion’s score in IB Diploma** | German School of Medellín, Colombia | 2015-2016
+
+Please refer to my CV for more details about my education, past research and teaching experience, presentations and courses, publications and ongoing projects. In case of questions or queries, feel free to contact me in any of my social media.
+
